@@ -1,5 +1,5 @@
 # Grocery Bud
 
-Project in Action: [https://grocery-bud-react-project.netlify.app](https://grocery-bud-react-project.netlify.app)
+Project in Action: [https://grocerybud-react-project.netlify.app](https://grocerybud-react-project.netlify.app)
 
 ![Screenshot](./public/Screenshot.png)
